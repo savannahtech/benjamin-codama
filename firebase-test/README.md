@@ -34,3 +34,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Firestore 
 
 I couldn't setup firestore with my account. Error Screen shot is in /public
+
+## URL
+url: https://ben-firebases-test.surge.sh/
